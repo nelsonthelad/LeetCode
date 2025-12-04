@@ -18,19 +18,8 @@ LeetCode/
 - **Medium:** 0
 - **Hard:** 0
 
-## 📝 Solved Problems
-
 ## 🚀 Getting Started
 
 Each solution file contains a complete function implementation that can be directly used in LeetCode's online judge. Simply copy the function code into the LeetCode editor.
 
-## 💡 Notes
-
-- Solutions are written in Go
-- All solutions are tested and accepted by LeetCode
-- Code follows clean coding practices and includes comments where necessary
-
----
-
-_Last updated: Solutions are continuously being added to this repository._
 
