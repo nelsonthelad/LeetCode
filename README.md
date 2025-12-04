@@ -11,13 +11,6 @@ LeetCode/
 └── Hard-Problems/      # Solutions for hard difficulty problems
 ```
 
-## 📊 Statistics
-
-- **Total Problems Solved:** 1
-- **Easy:** 1
-- **Medium:** 0
-- **Hard:** 0
-
 ## 🚀 Getting Started
 
 Each solution file contains a complete function implementation that can be directly used in LeetCode's online judge. Simply copy the function code into the LeetCode editor.
